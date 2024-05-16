@@ -14,7 +14,7 @@ Hi there! We're thrilled that you'd like to contribute to this project.
 ## Reporting Issues
 Before reporting an issue, check our backlog of [open issues][open-issues-url] to see if someone else has already reported it. If so, feel free to add your scenario, or additional information, to the discussion. Or simply "subscribe" to it to be notified when it is updated.
 
-If you find a new issue with the project we'd love to hear about it! The most important aspect of a bug report is that it includes enough information for us to reproduce it. So, please include as much detail as possible and try to remove the extra stuff that doesn't really relate to the issue itself. The easier it is for us to reproduce it, the faster it'll be fixed!
+If you find a new issue with the project we'd love to hear about it! The most important aspect of a bug report is that it includes enough information for us to reproduce it. So, please include as much detail as possible and try to remove the extra stuff that doesn't relate to the issue itself. The easier it is for us to reproduce it, the faster it'll be fixed!
 
 Please don't include any private/sensitive information in your issue!
 
@@ -22,7 +22,7 @@ Please don't include any private/sensitive information in your issue!
 Once you have decided to contribute by working on an issue, check our backlog of [open issues][open-issues-url] looking for any that do not have an "In Progress" label attached to it. Often issues will be assigned to someone, to be worked on at a later time. If you have the time to work on the issue now add yourself as an assignee, and set the "In Progress" label if you’re a member of the “Backbase” GitHub organization. If you can not set the label, just add a quick comment in the issue asking that the “In Progress” label be set and a member will do so for you.
 
 ## Documentation
-Make sure to update the documentation if needed. The documentation can be found unser `README.md` and `docs/*`.
+Make sure to update the documentation if needed. The documentation can be found under `README.md` and `docs/*`.
 
 ## Submitting Pull Requests
 No Pull Request (PR) is too small! Typos, additional comments in the code,
@@ -39,8 +39,8 @@ larger PRs into smaller ones - it's easier to review smaller
 code changes. But only if those smaller ones make sense as stand-alone PRs.
 
 Regardless of the type of PR, all PRs should include:
-* well documented code changes.
-* additional testcases. Ideally, they should fail without your code change applied.
+* well-documented code changes.
+* additional test cases. Ideally, they should fail without your code change applied.
 * documentation changes.
 
 Squash your commits into logical pieces of work that might want to be reviewed
@@ -113,7 +113,7 @@ Then you just add a line to every git commit message:
 
 Use your real name (sorry, no pseudonyms or anonymous contributions.)
 
-If you set your `user.name` and `user.email` git configs, you can sign your
+If you set your `user. name` and `user. email` git configs, you can sign your
 commit automatically with `git commit -s`.
 
 ## Continuous Integration
